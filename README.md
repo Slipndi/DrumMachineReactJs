@@ -17,11 +17,18 @@ Les components Header et Footer sont stockés dans des dossiers séparés pour f
 
 
 # Librairies utilisées
-> Styled Components
-> React Router DOM
+ - Styled Components
+ - React Router DOM
 
 # Thèmes 
 Choix de couleurs optimisé pour les mals voyants
-> light : background : #D4D4D4, color : #000000 Contrast Ratio webAim : 14.16 
-> Dark  : background : #092C3E, color : #FFFFFF Contrast Ratio webAim : 14.56
+ - light : background : #D4D4D4, color : #000000 Contrast Ratio webAim : 14.16 
+ - Dark  : background : #092C3E, color : #FFFFFF Contrast Ratio webAim : 14.56
 
+
+
+# Todo : 
+ - visualisation des courbes lors de l'appui sur les touches
+ - retour visuel lors du clic / appui sur la lettre concerné
+ - Mise en place d'un métronome
+ - Possibilité d'enregistrer la partie.
