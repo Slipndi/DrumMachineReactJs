@@ -1,7 +1,6 @@
 {
-    
-    "backgroundColor": "#000000",
-    "primaryColor": "#FF0000",
-    "secondaryColor":"#950101",
-    "ternaryColor":"#950101"
+    "backgroundColor": "#092C3E",
+    "primaryColor": "#D4D4D4",
+    "secondaryColor":"#5C527F",
+    "ternaryColor":"#3E2C41"
 }
