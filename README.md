@@ -29,6 +29,7 @@ Choix de couleurs optimisé pour les mals voyants
 
 # Todo : 
  - visualisation des courbes lors de l'appui sur les touches
- - retour visuel lors du clic / appui sur la lettre concerné
+ - retour visuel lors du clic / appui sur la touche concernée
  - Mise en place d'un métronome
  - Possibilité d'enregistrer la partie.
+ - Importer ses propres sons
